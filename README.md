@@ -11,7 +11,7 @@ Provided by Second Co., Ltd.
 
 ## Docker
 
-- secondspace-node-smtp : https://hub.docker.com/repository/docker/yahoai/secondspace-node-smtp/general
+- secondspace-node-smtp : https://hub.docker.com/r/yahoai/secondspace-node-smtp
 
 ## NPM 
 
